@@ -1,0 +1,15 @@
+.box
+{
+    padding: 10px;
+    background-color: #a9f1df;
+    transition: 0.5s;
+}
+.box:hover
+{
+    transform: scale(1.1);
+}
+.box h5
+{
+    font-size: 16px;
+    font-weight: bold;
+}
