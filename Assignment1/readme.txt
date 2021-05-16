@@ -27,3 +27,7 @@ d) After message display from connect.php, browser redirects to index.php.
 e) Entered Data is stored in table student_info using INSERT INTO command of mySQL.
 f) The data from mySQL is fetched using SELECT FROM * command to get whole table, which is displayed in new table rows.
 
+Further additions in mind that couldn't be added:
+a) Display message on the same page above the placeholder instead of a new page (like those when we type in incorrect password)
+b) Have a count for the current size of the table, to know how many students' info has been received.
+c) Have a search bar for a particular student entry search.
