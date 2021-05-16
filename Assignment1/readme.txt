@@ -1,8 +1,9 @@
-This is a Read-Me documentation for the first assignment of the web converner selectiion process.
+This is a Read-Me documentation for the first assignment of the web converner selection process.
 
 Name: Ayushman Choudhary
 Roll No. 200020039
 Phone: 9654462777
+For any query or missing file, please contact above.
 
 I have created a video on the final project workings, please visit:
 https://drive.google.com/file/d/1Dg88JD5uZR1ygJDGnpyMWCVOw2-s2ov9/view?usp=sharing
