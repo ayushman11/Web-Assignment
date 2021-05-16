@@ -2,9 +2,28 @@ This is a Read-Me documentation for the first assignment of the web converner se
 
 Name: Ayushman Choudhary
 Roll No. 200020039
-
-The HTML documentation is present in index.html while the php part could be found in connect.php.
-I had used local host xampp server for the working of this assignment using apache and mySQL.
+Phone: 9654462777
 
 Database name: student
 Table name: student_info
+
+The HTML documentation is present in index.html while the php part could be found in connect.php.
+I had used local host xampp server for the working of this assignment using apache and mySQL.
+The webpage consists of a simple HTML form in a div box with the table of previous entries below it.
+Much of the work consists of CSS and PHP part.
+
+CSS :
+a) Placeholders on form increase in size and have a green aesthetic on clicking.
+b) Submit button has a hover effect of changing background.
+c) The Table heading has been fixed when it reaches top: 0; for better readability.
+d) An alternate coloring pattern is used in Table along with a background change hover effect.
+e) The box around form has a shadow-effect encompassing it.
+
+PHP :
+a) Connection is made with the database, wherein table : student_info, Roll_No is set as Primary Key.
+b) While filling out form Roll Nunmber and First Name have been identified as compulsory fields.
+c) The message is being displayed using alert() of JavaScript with certain conditions.
+d) After message display from connect.php, browser redirects to index.php.
+e) Entered Data is stored in table student_info using INSERT INTO command of mySQL.
+f) The data from mySQL is fetched using SELECT FROM * command to get whole table, which is displayed in new table rows.
+
