@@ -1,0 +1,118 @@
+body
+{
+  margin: 0;
+  background-image: url("Untitled-2.png");
+  background-position: 40% 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Girassol', cursive;
+  text-align: center;
+}
+table
+{
+  width: 80%;
+  margin: 50px auto;
+}
+th
+{
+  background: #907fa4;
+  position: sticky;  /* fixing table heading on scrolling to top=0 */
+  top:0;
+}
+/*changing color for row on odd-even basis*/
+tr:nth-child(even)
+{
+  background-color: #f2f2f2;
+}
+tr:nth-child(odd)
+{
+  background-color: #e1e5ea;
+}
+tr:hover
+{
+  background: #3d84b8;
+}
+img
+{
+  width: 100px;
+  position: absolute;
+  left:15px;
+  top:15px;
+}
+.heading
+{
+  text-shadow: 16px 15px 4px grey;
+  color: #f9f6f7;
+  font-size: 50px;
+  position: relative;
+  right: 7px;
+  top:25px;
+}
+.title_form
+{
+  position: absolute;
+  top: 0;
+  left: 50px;
+  font-size: 30px;
+  color: white;
+  font-family: 'Times New Roman', monospace;
+  font-weight:lighter;
+}
+
+::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+  color: black;
+  font-weight: bolder;
+}
+.box
+{
+  box-shadow: 10px 10px 5px grey;
+  border: solid 5px;
+  opacity: 0.7;
+  border-color: black;
+  width: 300px;
+  padding: 40px;
+  margin: auto;
+  background: black;
+  position: relative;
+  top: 10px;
+  text-align: center;
+}
+.box input[type= "text"]
+{
+  opacity: 1;
+  background: #f5f7b2;
+  display: block;
+  filter: brightness(120%);
+  margin: 20px auto;
+  text-align: center;
+  border: 2px solid black;
+  padding: 14px 10px;
+  width: 200px;
+  outline: none;
+  color: black;
+  border-radius: 24px;
+  transition: 0.25s;
+}
+.box input[type= "text"]:focus
+{
+  width: 280px;
+  border-color: #2ecc71;
+}
+.box input[type="submit"]
+{
+  background: #3d84b8;
+  display: block;
+  margin: 20px auto;
+  text-align: center;
+  border: 2px solid black;
+  padding: 14px 40px;
+  outline: none;
+  color: black;
+  border-radius: 24px;
+  transition: 0.25s;
+  cursor: pointer;
+}
+.box input[type= "submit"]:hover
+{
+  background: #c0e218;
+}
