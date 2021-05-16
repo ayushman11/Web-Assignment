@@ -1,0 +1,41 @@
+.sticky
+{
+    position: sticky;
+    top: 0;
+    z-index: 9999;
+}
+ul li.active a
+{
+    font-weight: bolder;
+}
+/* input[type="checkbox"]
+{
+    position:fixed;
+    right: 50px;
+    cursor: pointer;
+    -webkit-appearance: none;
+}
+input[type="checkbox"]:before
+{
+    position:fixed;
+    right: 50px;
+    cursor: pointer;
+    content: 'Dark';
+    color: #fff;
+    background: #000;
+    padding: 10px 20px;
+}
+input[type="checkbox"]:checked:before
+{
+    position:fixed;
+    right: 50px;
+    cursor: pointer;
+    content: 'Light';
+    color: #000;
+    background: #fff;
+    padding: 10px 20px;
+}
+input[type="checkbox"]:checked ~*
+{
+    filter: invert(100%);
+} */
