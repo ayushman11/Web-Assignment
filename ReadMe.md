@@ -30,4 +30,4 @@ Further additions in mind that couldn't be added :\
 a)Adding an Interactive world map to switch to news related to any country.\
 b) Dark/Light mode\
 c) Search Bar in right-hand-side of nav-bar\
-d) Increasing article limit to either introduce next page or continuous scrolling with fresh API call after certain Y-Scroll.\
+d) Increasing article limit to either introduce next page or continuous scrolling with fresh API call after certain Y-Scroll.
