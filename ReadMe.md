@@ -1,11 +1,11 @@
 This is a Read-Me documentation for the second assignment of the web converner selectiion process.
 
-## Name: Ayushman Choudhary\
-## Roll No. 200020039\
-## Phone: 9654462777\
-### For any query or missing file, please contact above.\
+## Name: Ayushman Choudhary
+## Roll No. 200020039
+## Phone: 9654462777
+### For any query or missing file, please contact above.
 
-### I have created a video on the final project workings, please visit:\
+### I have created a video on the final project workings, please visit:
 https://drive.google.com/file/d/1NvUgNNLyxg1mgKbZ2tQBI9gZR3ZT4F1i/view?usp=sharing
 
 API service is being availed from newapi.org\
